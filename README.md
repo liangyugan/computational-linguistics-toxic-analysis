@@ -30,6 +30,11 @@ The project demonstrates a complete end-to-end NLP pipeline: from advanced text 
 * `Computational_Linguistics_Final_Project_r1077191.ipynb`: Full implementation and comparative analysis.
 * `data/`: Training and testing subsets (CSV).
 * `visualizations/`: Exported performance charts and confusion matrices.
+* 
+## 📂 Data Source
+The dataset used in this project is the **Jigsaw Toxic Comment Classification** dataset. 
+Due to GitHub's file size limitations, the raw data is not included in this repository. 
+You can download it from Kaggle here: [Link to Kaggle Dataset].
 
 
 **Author:** Liangyu Gan  
